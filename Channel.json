@@ -1083,5 +1083,10 @@
     "ownerName": "Noooooo",
     "poin": 1,
     "status": "ACTIVE"
+  },
+  "120363425302763577@newsletter": {
+    "ownerName": "Buyer",
+    "poin": 0,
+    "status": "ACTIVE"
   }
 }
