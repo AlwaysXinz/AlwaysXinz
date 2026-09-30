@@ -1,272 +1,1087 @@
-[
-  "120363395678317603@newsletter",
-  "120363410779477265@newsletter",
-  "120363411191106847@newsletter",
-  "120363424832107321@newsletter",
-  "120363424246977925@newsletter",
-  "120363427360507370@newsletter",
-  "120363428111178135@newsletter",
-  "120363410681368499@newsletter",
-  "120363429408467769@newsletter",
-  "120363409868798551@newsletter",
-  "120363411244463771@newsletter",
-  "120363429024572162@newsletter",
-  "120363429363923730@newsletter",
-  "120363429393445503@newsletter",
-  "120363429690938843@newsletter",
-  "120363428418595425@newsletter",
-  "120363428358976410@newsletter",
-  "120363427290894171@newsletter",
-  "120363428746126750@newsletter",
-  "120363427151487376@newsletter",
-  "120363427214888972@newsletter",
-  "120363409375215248@newsletter",
-  "120363427491646216@newsletter",
-  "120363430536394762@newsletter",
-  "120363412353938877@newsletter",
-  "120363433767855601@newsletter",
-  "120363417175451500@newsletter",
-  "120363412305212785@newsletter",
-  "120363429836788125@newsletter",
-  "120363432479439734@newsletter",
-  "120363429649277813@newsletter",
-  "120363429490158946@newsletter",
-  "120363412034104437@newsletter",
-  "120363430241056871@newsletter",
-  "120363431761902959@newsletter",
-  "120363412166984295@newsletter",
-  "120363432120791604@newsletter",
-  "120363413557792997@newsletter",
-  "120363428702460613@newsletter",
-  "120363427286770714@newsletter",
-  "120363409599241465@newsletter",
-  "120363429608029747@newsletter",
-  "120363428097958724@newsletter",
-  "120363411354210062@newsletter",
-  "120363431165479312@newsletter",
-  "120363413914857874@newsletter",
-  "120363428314542104@newsletter",
-  "120363428405237756@newsletter",
-  "120363431123242379@newsletter",
-  "120363429700579254@newsletter",
-  "120363409865684995@newsletter",
-  "120363428524995309@newsletter",
-  "120363426512467926@newsletter",
-  "120363409504384486@newsletter",
-  "120363405241028226@newsletter",
-  "120363410873440663@newsletter",
-  "120363432963657581@newsletter",
-  "120363431967760645@newsletter",
-  "120363412857330242@newsletter",
-  "120363427525834561@newsletter",
-  "120363432321478254@newsletter",
-  "120363412239993663@newsletter",
-  "120363433748848856@newsletter",
-  "120363410393747212@newsletter",
-  "120363413452568884@newsletter",
-  "120363430039873515@newsletter",
-  "120363430508747866@newsletter",
-  "120363410801865450@newsletter",
-  "120363430403170204@newsletter",
-  "120363430188980477@newsletter",
-  "120363429465087404@newsletter",
-  "120363432339037217@newsletter",
-  "120363413244737982@newsletter",
-  "120363434926554929@newsletter",
-  "120363430051571404@newsletter",
-  "120363411728944707@newsletter",
-  "120363429529569927@newsletter",
-  "120363410829671740@newsletter",
-  "120363431926094892@newsletter",
-  "120363429488865246@newsletter",
-  "120363411209980695@newsletter",
-  "120363430884952029@newsletter",
-  "120363411722301620@newsletter",
-  "120363413017995667@newsletter",
-  "120363429447116098@newsletter",
-  "120363414468669523@newsletter",
-  "120363412001430783@newsletter",
-  "120363410356550073@newsletter",
-  "120363430154362795@newsletter",
-  "120363429585969191@newsletter",
-  "120363412014054351@newsletter",
-  "120363431810843660@newsletter",
-  "120363412583812844@newsletter",
-  "120363428896111312@newsletter",
-  "120363412065476943@newsletter",
-  "120363432727658240@newsletter",
-  "120363431084532216@newsletter",
-  "120363430509807811@newsletter",
-  "120363412360613405@newsletter",
-  "120363431332914941@newsletter",
-  "120363430954909445@newsletter",
-  "120363430086691414@newsletter",
-  "120363411293688429@newsletter",
-  "120363412873449159@newsletter",
-  "120363429291607577@newsletter",
-  "120363410613709228@newsletter",
-  "120363427297879900@newsletter",
-  "120363431516322651@newsletter",
-  "120363430604679593@newsletter",
-  "120363431303063841@newsletter",
-  "120363430463991722@newsletter",
-  "120363411629811988@newsletter",
-  "120363431748162271@newsletter",
-  "120363430290699553@newsletter",
-  "120363413508902590@newsletter",
-  "120363414219528221@newsletter",
-  "120363431643124779@newsletter",
-  "120363431934473703@newsletter",
-  "120363427889831874@newsletter",
-  "120363411621514319@newsletter",
-  "120363434061738106@newsletter",
-  "120363412646635835@newsletter",
-  "120363413634917074@newsletter",
-  "120363411428338887@newsletter",
-  "120363413580140836@newsletter",
-  "120363430182869349@newsletter",
-  "120363413588946801@newsletter",
-  "120363409773325507@newsletter",
-  "120363432769490957@newsletter",
-  "120363430558717990@newsletter",
-  "120363412450485054@newsletter",
-  "120363430397963399@newsletter",
-  "120363412530421456@newsletter",
-  "120363413340901135@newsletter",
-  "120363431112588493@newsletter",
-  "120363414174427373@newsletter",
-  "120363412269079532@newsletter",
-  "120363413631354001@newsletter",
-  "120363429644254856@newsletter",
-  "120363428385910111@newsletter",
-  "120363413818448725@newsletter",
-  "120363429948571277@newsletter",
-  "120363413323048759@newsletter",
-  "120363413592811908@newsletter",
-  "120363430795219929@newsletter",
-  "120363414727555738@newsletter",
-  "120363431669619645@newsletter",
-  "120363412397842330@newsletter",
-  "120363432156858956@newsletter",
-  "120363431477141259@newsletter",
-  "120363429579839871@newsletter",
-  "120363412790781523@newsletter",
-  "120363430043503088@newsletter",
-  "120363430092884060@newsletter",
-  "120363411707890861@newsletter",
-  "120363412379891583@newsletter",
-  "120363430394888674@newsletter",
-  "120363428802486654@newsletter",
-  "120363432069398419@newsletter",
-  "120363432224206173@newsletter",
-  "120363431962283318@newsletter",
-  "120363429723566018@newsletter",
-  "120363411771354384@newsletter",
-  "120363413574269275@newsletter",
-  "120363430168642192@newsletter",
-  "120363413181590191@newsletter",
-  "120363429795171655@newsletter",
-  "120363432553391495@newsletter",
-  "120363412029477459@newsletter",
-  "120363428045482241@newsletter",
-  "120363412323693584@newsletter",
-  "120363430085084474@newsletter",
-  "120363431613466095@newsletter",
-  "120363431424800605@newsletter",
-  "120363431057858691@newsletter",
-  "120363426864676819@newsletter",
-  "120363431019990789@newsletter",
-  "120363431676129295@newsletter",
-  "120363412347582136@newsletter",
-  "120363430273516886@newsletter",
-  "120363430245123173@newsletter",
-  "120363429576032215@newsletter",
-  "120363429019867829@newsletter",
-  "120363411813562866@newsletter",
-  "120363428656591109@newsletter",
-  "120363412609006683@newsletter",
-  "120363409717929650@newsletter",
-  "120363430381162311@newsletter",
-  "120363429298657048@newsletter",
-  "120363427221784301@newsletter",
-  "120363430487703809@newsletter",
-  "120363414257596768@newsletter",
-  "120363413302241832@newsletter",
-  "120363413086581640@newsletter",
-  "120363411852249261@newsletter",
-  "120363433064031533@newsletter",
-  "120363430824031271@newsletter",
-  "120363431257896833@newsletter",
-  "120363410329519330@newsletter",
-  "120363431091279172@newsletter",
-  "120363412765620059@newsletter",
-  "120363414257947084@newsletter",
-  "120363413116115406@newsletter",
-  "120363415241895356@newsletter",
-  "120363430946400132@newsletter",
-  "120363412839827154@newsletter",
-  "120363429542595558@newsletter",
-  "120363413143820098@newsletter",
-  "120363414374677324@newsletter",
-  "120363430062466686@newsletter",
-  "120363431500116230@newsletter",
-  "120363429062019830@newsletter",
-  "120363412143715640@newsletter",
-  "120363432349611804@newsletter",
-  "120363430245007970@newsletter",
-  "120363430513243065@newsletter",
-  "120363429135175321@newsletter",
-  "120363411115255133@newsletter",
-  "120363429402518501@newsletter",
-  "120363412273100817@newsletter",
-  "120363410834170594@newsletter",
-  "120363411352027951@newsletter",
-  "120363413943534455@newsletter",
-  "120363431480996597@newsletter",
-  "120363429857275217@newsletter",
-  "120363430142458894@newsletter",
-  "120363411019380587@newsletter",
-  "120363429534031911@newsletter",
-  "120363429071561494@newsletter",
-  "120363412165912513@newsletter",
-  "120363413092377183@newsletter",
-  "120363410290841958@newsletter",
-  "120363431503091026@newsletter",
-  "120363431932466428@newsletter",
-  "120363429890303056@newsletter",
-  "120363430025538989@newsletter",
-  "120363429382075407@newsletter",
-  "120363411328916420@newsletter",
-  "120363413263973830@newsletter",
-  "120363432537721749@newsletter",
-  "120363365398682521@newsletter",
-  "120363311005764445@newsletter",
-  "120363419939019923@newsletter",
-  "120363420168566608@newsletter",
-  "120363400368258912@newsletter",
-  "120363401534856495@newsletter",
-  "120363416846359026@newsletter",
-  "120363418265527586@newsletter",
-  "120363401539077214@newsletter",
-  "120363423516676029@newsletter",
-  "120363410771860978@newsletter",
-  "120363424314340219@newsletter",
-  "120363426631655657@newsletter",
-  "120363427871520075@newsletter",
-  "120363427991034400@newsletter",
-  "120363408779653673@newsletter",
-  "120363427682271009@newsletter",
-  "120363426482627183@newsletter",
-  "120363409196211590@newsletter",
-  "120363428210090715@newsletter",
-  "120363418228583592@newsletter",
-  "120363421102139696@newsletter",
-  "120363399136328043@newsletter",
-  "120363400549364162@newsletter",
-  "120363411489245198@newsletter",
-  "120363410803850048@newsletter",
-  "120363428590492219@newsletter",
-  "120363410423230359@newsletter",
-  "120363431888213466@newsletter",
-  "120363429675736936@newsletter"
-]
+{
+  "120363395678317603@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410779477265@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411191106847@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363424832107321@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363424246977925@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427360507370@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428111178135@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410681368499@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429408467769@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409868798551@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411244463771@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429024572162@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429363923730@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429393445503@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429690938843@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428418595425@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428358976410@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427290894171@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428746126750@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427151487376@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427214888972@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409375215248@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427491646216@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430536394762@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412353938877@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363433767855601@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363417175451500@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412305212785@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429836788125@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432479439734@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429649277813@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429490158946@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412034104437@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430241056871@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431761902959@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412166984295@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432120791604@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413557792997@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428702460613@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427286770714@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409599241465@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429608029747@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428097958724@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411354210062@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431165479312@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413914857874@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428314542104@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428405237756@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431123242379@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429700579254@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409865684995@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428524995309@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363426512467926@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409504384486@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363405241028226@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410873440663@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432963657581@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431967760645@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412857330242@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427525834561@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432321478254@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412239993663@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363433748848856@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410393747212@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413452568884@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430039873515@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430508747866@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410801865450@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430403170204@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430188980477@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429465087404@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432339037217@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413244737982@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363434926554929@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430051571404@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411728944707@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429529569927@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410829671740@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431926094892@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429488865246@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411209980695@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430884952029@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411722301620@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413017995667@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429447116098@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414468669523@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412001430783@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410356550073@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430154362795@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429585969191@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412014054351@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431810843660@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412583812844@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428896111312@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412065476943@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432727658240@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431084532216@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430509807811@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412360613405@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431332914941@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430954909445@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430086691414@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411293688429@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412873449159@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429291607577@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410613709228@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427297879900@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431516322651@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430604679593@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431303063841@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430463991722@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411629811988@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431748162271@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430290699553@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413508902590@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414219528221@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431643124779@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431934473703@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427889831874@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411621514319@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363434061738106@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412646635835@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413634917074@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411428338887@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413580140836@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430182869349@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413588946801@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409773325507@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432769490957@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430558717990@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412450485054@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430397963399@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412530421456@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413340901135@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431112588493@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414174427373@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412269079532@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413631354001@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429644254856@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428385910111@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413818448725@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429948571277@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413323048759@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413592811908@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430795219929@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414727555738@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431669619645@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412397842330@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432156858956@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431477141259@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429579839871@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412790781523@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430043503088@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430092884060@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411707890861@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412379891583@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430394888674@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428802486654@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432069398419@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432224206173@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431962283318@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429723566018@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411771354384@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413574269275@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430168642192@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413181590191@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429795171655@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432553391495@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412029477459@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428045482241@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412323693584@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430085084474@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431613466095@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431424800605@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431057858691@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363426864676819@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431019990789@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431676129295@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412347582136@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430273516886@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430245123173@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429576032215@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429019867829@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411813562866@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428656591109@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412609006683@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409717929650@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430381162311@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429298657048@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427221784301@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430487703809@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414257596768@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413302241832@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413086581640@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411852249261@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363433064031533@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430824031271@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431257896833@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410329519330@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431091279172@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412765620059@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414257947084@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413116115406@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363415241895356@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430946400132@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412839827154@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429542595558@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413143820098@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363414374677324@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430062466686@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431500116230@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429062019830@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412143715640@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432349611804@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430245007970@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430513243065@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429135175321@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411115255133@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429402518501@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412273100817@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410834170594@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411352027951@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413943534455@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431480996597@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429857275217@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430142458894@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411019380587@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429534031911@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429071561494@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363412165912513@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413092377183@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410290841958@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431503091026@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431932466428@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429890303056@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363430025538989@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429382075407@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411328916420@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363413263973830@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363432537721749@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363365398682521@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363311005764445@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363419939019923@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363420168566608@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363400368258912@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363401534856495@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363416846359026@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363418265527586@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363401539077214@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363423516676029@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410771860978@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363424314340219@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363426631655657@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427871520075@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427991034400@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363408779653673@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363427682271009@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363426482627183@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363409196211590@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428210090715@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363418228583592@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363421102139696@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363399136328043@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363400549364162@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363411489245198@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410803850048@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363428590492219@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363410423230359@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363431888213466@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "120363429675736936@newsletter": {
+    "poin": 0,
+    "ownerName": "Buyer"
+  },
+  "8013002460": {
+    "ownerName": "Noooooo",
+    "poin": 1,
+    "status": "ACTIVE"
+  }
+}
