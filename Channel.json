@@ -1642,5 +1642,11 @@
     "poin": 0,
     "status": "ACTIVE",
     "prem": true
+  },
+  "120363410197573574@newsletter": {
+    "ownerName": "Buyer",
+    "poin": 0,
+    "status": "ACTIVE",
+    "prem": false
   }
 }
